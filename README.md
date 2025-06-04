@@ -60,7 +60,7 @@ Copy all the provided files into their respective directories according to the p
 ```bash
 npm run server
 ```
-This will start the JSON server on http://localhost:3001
+This will start the JSON server on http://localhost:3000
 
 ### 5. Start React App (Frontend)
 ```bash
