@@ -1,0 +1,53 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Welcome to Our Blog",
+      "description": "In today’s digital age, where information is shared faster than ever before, blogging has emerged as one of the most powerful tools of self-expression and influence. What started as online journals has now evolved into platforms for education, storytelling, business, and community building.",
+      "category": "top stories",
+      "featured": false,
+      "createdAt": "2024-01-15T10:30:00Z"
+    },
+    {
+      "id": "2",
+      "title": "Getting Started with React",
+      "description": "Blogging is more than just writing, it's about sharing a perspective. Whether it's a personal journey, expert advice, or commentary on current events, blogs allow individuals to connect with readers on a deeper level. Every blog post is an opportunity to create meaningful content, inspire change, or simply brighten someone’s day.",
+      "category": "top stories",
+      "featured": false,
+      "createdAt": "2024-01-14T14:20:00Z"
+    },
+    {
+      "id": "3",
+      "title": "Web Development Trends 2024",
+      "description": "One of the most beautiful aspects of blogging is that there are no strict rules. Your blog is your space. It can be professional, playful, poetic, or informative. You don’t need to be a professional writer to begin. What matters most is authenticity. Readers are drawn to genuine voices, real experiences, and honest insights.",
+      "category": "tech",
+      "featured": false,
+      "createdAt": "2024-01-13T09:15:00Z"
+    },
+    {
+      "id": "4",
+      "title": "Continuation",
+      "description": "In a world full of noise, your blog can be a quiet but powerful place where your thoughts find clarity and your voice echoes. So, if you’ve ever considered starting a blog, take that first step. Your words matter more than you know.",
+      "category": "top stories",
+      "createdAt": "2025-06-04T13:19:57.819Z",
+      "featured": false
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "top stories",
+      "slug": "top-stories"
+    },
+    {
+      "id": "2",
+      "name": "tech",
+      "slug": "tech"
+    },
+    {
+      "id": "3",
+      "name": "lifestyle",
+      "slug": "lifestyle"
+    }
+  ]
+}
